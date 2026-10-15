@@ -1,0 +1,25 @@
+{
+  "name": "Mi Día — Siempre contigo",
+  "short_name": "Mi Día",
+  "description": "Rutinas y bienestar con apoyo de familiares",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef6f1",
+  "theme_color": "#28695c",
+  "lang": "es-AR",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

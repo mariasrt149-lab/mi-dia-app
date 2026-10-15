@@ -1,0 +1,7 @@
+Mi Día 7.0 — Patrocinadores solidarios
+
+Publicá todos los archivos de esta carpeta juntos en un hosting HTTPS (por ejemplo GitHub Pages) para instalar como PWA.
+
+El panel de patrocinadores aparece solamente en Cuidador y permite agregar organizaciones manualmente. No incluye publicidad automática, pagos ni seguimiento.
+
+ATENCIÓN: prototipo de prueba, datos locales y PIN local no apto como seguridad de producción. No usar para alertas médicas urgentes ni depender de sus recordatorios para medicación. No subir datos personales reales a repositorios públicos.
